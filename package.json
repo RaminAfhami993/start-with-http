@@ -1,0 +1,12 @@
+{
+  "name": "start-with-http",
+  "version": "1.0.0",
+  "description": "start with http",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ramin",
+  "license": "ISC"
+}
